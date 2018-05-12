@@ -1,0 +1,38 @@
+_repo: The-Perils-and-Adventures-of-Harry-SkipwithBy-Land-and-Sea_34487
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kingston, William Henry Giles
+    aliases:
+    - Kingston, W. H. G.
+    - Kingston, W.H.G.
+    birthdate: 1814
+    deathdate: 1880
+    gutenberg_agent_id: '8659'
+    url: http://www.gutenberg.org/2009/agents/8659
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
+description: ''
+gutenberg_issued: '2010-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34487'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- United States -- Juvenile fiction'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Frontier and pioneer life -- Canada -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Shipwrecks -- Juvenile fiction'
+- !lcsh 'Slavery -- Juvenile fiction'
+- !lcsh 'Canada -- Juvenile fiction'
+- !lcsh 'Blacks -- Juvenile fiction'
+title: The Perils and Adventures of Harry Skipwith by Land and Sea
+url: http://www.gutenberg.org/ebooks/34487
